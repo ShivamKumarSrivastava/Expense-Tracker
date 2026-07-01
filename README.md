@@ -56,7 +56,7 @@ screenshots/dashboard.png
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Expense-Tracker.git
+git clone https://github.com/ShivamKumarSrivastava/Expense-Tracker.git
 ```
 
 2. Open the project folder
@@ -155,7 +155,7 @@ This project is licensed under the MIT License.
 
 **Shivam Kumar**
 
-- GitHub: https://github.com/your-github-username
-- LinkedIn: https://linkedin.com/in/your-linkedin-profile
+- GitHub: https://github.com/ShivamKumarSrivastava
+- LinkedIn: https://www.linkedin.com/in/shivam-kumar-314153256/
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
